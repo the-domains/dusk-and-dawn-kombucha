@@ -1,0 +1,28 @@
+name: 'Dusk & Dawn Kombucha'
+favicon: null
+layout_spectrum: 0.3148182206787169
+typography_spectrum: 0.479325732216239
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.7814574807416648
+  lightness: 0.5396037600003183
+  saturation: 0.26578176324255764
+  rhythmicContrast: 0.704319923883304
+purpose: []
