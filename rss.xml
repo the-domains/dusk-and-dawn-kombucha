@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Dusk & Dawn Kombucha]]></title>
+        <description><![CDATA[Dusk & Dawn Kombucha]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 06 Mar 2016 01:55:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Why should beverages be full of sugar or alcohol? </p>]]></description>
+            <link>undefineda82150a6-44cc-4921-8c79-0cb587400a7b/index.html</link>
+            <guid isPermaLink="false">a82150a6-44cc-4921-8c79-0cb587400a7b</guid>
+            <pubDate>Sun, 06 Mar 2016 01:54:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
